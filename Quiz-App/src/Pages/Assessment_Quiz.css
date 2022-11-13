@@ -1,0 +1,154 @@
+
+.top_section_of_quize{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-bottom: 2%;
+}
+
+.top_section_of_quize > div{
+    color: rgb(250, 246, 246);
+    font-weight: bolder;
+    font-size: 200%;
+}
+
+.top_section_of_quize > div > span{
+    color: rgb(103, 92, 92);
+}
+
+.top_section_of_quize  div:last-child{
+    color: rgb(6, 0, 0);
+    font-weight: bolder;
+    font-size: 250%;
+    text-decoration: none;
+}
+
+.top_section_of_quize  div:last-child:hover{
+    cursor: pointer;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.Question_Image{
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+
+.Question_Image > img {
+    width: 100%;
+}
+
+.Answers_grid{
+    display: grid;
+    width: 70%;
+    margin: auto;
+    grid-template-columns: repeat(6,1fr);
+    gap: 2%;
+}
+
+
+.Answers_Item{
+    display: block;
+}
+
+.Answers_Item:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.Answers_Item > img{
+    width: 100%;
+    height: 100%;
+}
+
+.question_section{
+    color: white;
+    font-size: 250%;
+    width: 75%;
+    margin: auto;
+    font-weight: bold;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.alert_result{
+    width: 100%;
+    margin: auto;
+    color: white;
+    margin-top: 10%;
+}
+
+.alert_result > div:first-child{
+    font-size: 150%;
+    width: fit-content;
+    font-weight: bold;
+}
+
+.alert_result >div:nth-child(2){
+    font-size: 100%;
+    font-weight: bold;
+    margin: 2%;
+}
+
+.alert_result >div:last-child button{
+    padding: 3% 5%;
+  background-color: rgb(96, 96, 221);;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  font-size: 110%;
+}
+
+.alert_result >div:last-child button:hover{
+    cursor: pointer;
+}
+
+.Answers_grid button {
+    padding: 0% 5%;
+    background-color: rgb(63, 63, 112);;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    padding-left: -5%;
+    margin-top: 5%;
+    border-radius: 10px;
+    font-size: 350%;
+}
+
+.Answers_grid button:hover {
+    cursor: pointer;
+    background-color: rgba(240, 248, 255, 0);
+    border: 4px solid white;
+}
+
+@media all and (min-width: 751px) and (max-width: 1000px){
+    .question_section{
+        font-size: 200%;
+    }
+}
+
+@media all and (min-width: 451px) and (max-width: 750px){
+    .question_section{
+        font-size: 180%;
+    }
+    
+    .Answers_grid button {
+        font-size: 250%;
+    }
+
+}
+
+
+@media all and (min-width: 28px) and (max-width: 450px){
+    .question_section{
+        font-size: 120%;
+    }
+    
+    .Answers_grid button {
+        font-size: 160%;
+    }
+
+}

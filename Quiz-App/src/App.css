@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(77, 77, 147);
+  height: 100vh;
+  padding-top: 5%;
+}
+
+.Home_Container{
+  color: rgb(250, 247, 247);
+  width: 100%;
+  height: 100%;
+}
+
+.Home_Container div:first-child{
+  width: 40%;
+  margin: auto;
+}
+
+.Home_Container div:nth-child(2){
+  width: 50%;
+  font-size: 200%;
+  font-weight: bold;
+  margin: auto;
+
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.Home_Container div img{
+  width: 40%;
+}
+
+.Home_Container > div:last-child  button{
+  padding: 1% 5%;
+  background-color: rgb(96, 96, 221);;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  font-size: 150%;
+}
+
+.Home_Container > div:last-child  button:hover{
+  opacity: 0.6;
+  cursor: pointer;
+}
