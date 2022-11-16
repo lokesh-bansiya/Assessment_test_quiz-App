@@ -8,7 +8,7 @@ const MainPage = () => {
             <Route path="/" element={<HomePage/>}/>
             <Route path="/testpage" element={<Assessment_Quiz/>}/>
         </Routes>
-    )
+    );
 }
 
 export {MainPage};

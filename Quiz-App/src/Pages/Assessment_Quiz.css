@@ -1,4 +1,13 @@
 
+.text-box-container{
+  width: 100%;
+}
+
+.quiz-container{
+    background-color: rgb(77, 77, 147);
+    height: 100vh;
+}
+
 .top_section_of_quize{
     width: 95%;
     display: flex;
@@ -73,39 +82,6 @@
     margin-bottom: 2%;
 }
 
-.alert_result{
-    width: 100%;
-    margin: auto;
-    color: white;
-    margin-top: 10%;
-}
-
-.alert_result > div:first-child{
-    font-size: 150%;
-    width: fit-content;
-    font-weight: bold;
-}
-
-.alert_result >div:nth-child(2){
-    font-size: 100%;
-    font-weight: bold;
-    margin: 2%;
-}
-
-.alert_result >div:last-child button{
-    padding: 3% 5%;
-  background-color: rgb(96, 96, 221);;
-  color: white;
-  font-weight: bold;
-  border: none;
-  border-radius: 10px;
-  font-size: 110%;
-}
-
-.alert_result >div:last-child button:hover{
-    cursor: pointer;
-}
-
 .Answers_grid button {
     padding: 0% 5%;
     background-color: rgb(63, 63, 112);;
@@ -123,6 +99,164 @@
     background-color: rgba(240, 248, 255, 0);
     border: 4px solid white;
 }
+
+
+/* ------------------------------------------------------ */
+
+
+.alert_result{
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+
+.middle-box{
+    width: 100%;
+    background-color: rgb(77, 77, 147);
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle-box > div:nth-child(2){
+    font-size: 130%;
+    margin: 1%;
+    width: fit-content;
+    font-weight: 600;
+}
+
+.middle-box > div:nth-child(3){
+    width: fit-content;
+}
+
+
+.middle-box > div:nth-child(3) button{
+    padding: 3% 5%;
+    background-color: rgb(96, 96, 221);;
+    color: white;
+    width: 200px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    font-size: 100%;
+}
+
+.middle-box >div:nth-child(3) button:hover{
+    cursor: pointer;
+}
+.double-partition{
+    display: flex;
+    background-color: white;
+    height: 100%;
+}
+
+.double-partition .left-child{
+    width: 60%;
+    color: rgb(33, 32, 32);
+    text-align: left;
+    padding: 3%;
+    gap: 5%;
+}
+
+.double-partition h3{
+    color: rgb(84, 83, 83);
+}
+
+.double-partition .left-child div:first-child p span{
+    font-weight: 700;
+    color: rgb(69, 68, 68);
+}
+
+.double-partition .left-child div:nth-child(2) p{
+    font-weight: 500;
+    color: rgb(8, 140, 187);
+}
+
+.double-partition .left-child div:nth-child(2) p > button{
+    padding: 1%;
+    border: none;
+    background-color: rgb(211, 211, 239);
+    border-radius: 5px;
+}
+
+.double-partition .left-child div:nth-child(2) p > button:hover{
+    cursor: pointer;
+    background-color: rgb(235, 235, 251);
+}
+
+.image-grid-container .image-gerid-section{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    width: 40%;
+}
+
+.image-grid-container .image-gerid-section >img{
+    width: 80%;
+    margin: 2%;
+    border-radius: 50%;
+}
+
+.image-grid-container .image-gerid-section >img:hover{
+    cursor: pointer;
+}
+
+.right-child{
+    padding: 3%;
+    width: 30%;
+    color: rgb(127, 155, 161);
+}
+
+.right-child div:first-child {
+    text-align: left;
+}
+
+.right-child div:first-child span{
+    font-size: 170%;
+}
+.checked {
+    color: orange;
+}
+
+.right-child div:nth-child(2) {
+    text-align: left;
+    font-size: 200%;
+}
+
+.right-child div:nth-child(3) div {
+    text-align: left;
+    display: grid;
+    width: 40%;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.right-child div:nth-child(3) .our-social-networks{
+    text-align: left;
+    font-size: 150%;
+    font-weight: 600;
+}
+
+.right-child div:nth-child(3) div > div{
+    display: flex;
+    border-radius: 50px;
+    margin: 2%;
+    width: 30px;
+    height: 30px;
+    color: white;
+    background-color: rgb(127, 155, 161);
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.right-child div:nth-child(3) div > div:hover{
+    cursor: pointer;
+}
+
 
 @media all and (min-width: 751px) and (max-width: 1000px){
     .question_section{

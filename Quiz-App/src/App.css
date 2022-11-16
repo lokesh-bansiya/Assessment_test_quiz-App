@@ -2,15 +2,15 @@
   text-align: center;
   display: flex;
   justify-content: center;
-  background-color: rgb(77, 77, 147);
   height: 100vh;
-  padding-top: 5%;
 }
 
 .Home_Container{
   color: rgb(250, 247, 247);
+  background-color: rgb(77, 77, 147);
   width: 100%;
-  height: 100%;
+  padding-top: 5%;
+  height: fit-content;
 }
 
 .Home_Container div:first-child{
@@ -20,8 +20,8 @@
 
 .Home_Container div:nth-child(2){
   width: 50%;
-  font-size: 200%;
-  font-weight: bold;
+  font-size: 180%;
+  font-weight: 600;
   margin: auto;
 
   margin-top: 3%;
@@ -32,17 +32,24 @@
   width: 40%;
 }
 
-.Home_Container > div:last-child  button{
-  padding: 1% 5%;
+.Home_Container > .btn  button{
+  padding: 1% 4%;
   background-color: rgb(96, 96, 221);;
   color: white;
   font-weight: bold;
   border: none;
   border-radius: 10px;
-  font-size: 150%;
+  margin: 1%;
+  font-size: 140%;
 }
 
-.Home_Container > div:last-child  button:hover{
+.Home_Container > .btn  button:hover{
   opacity: 0.6;
   cursor: pointer;
+}
+
+.Home_Container > div:last-child{
+  padding: 5%;
+  text-align: justify;
+  font-size: 120%;
 }
