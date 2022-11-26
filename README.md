@@ -1,6 +1,19 @@
 # Assessment_test_quiz-App
 ### IQ Test for kids from 7 to 16 year old, Here is the mini Quiz-App that I have created with the help of HTML, CSS , JavaScript and React.js.
 
+## About Project:-
+ - Individual Project
+## Tech-stacks:-
+ - HTML
+ - CSS
+ - JavaScript
+## Tools:-
+ - VS-Code
+ - GitHub
+ - Netlify
+ 
+# Descriptive Layout:-
+
 # Home Page:
 ![screenshot__12863_](https://user-images.githubusercontent.com/105616033/201506121-de6aa533-48b9-4728-b039-79b81d594564.png)
 <h3>IQ Test for kids from 7 to 16 year old. Start test. Most IQ tests are not suitable for children, as they are originally developed for the adult population.</h3>
