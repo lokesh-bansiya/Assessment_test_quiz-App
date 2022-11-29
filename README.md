@@ -15,10 +15,12 @@
 # Descriptive Layout:-
 
 # Home Page:
+
 ![Home_Page](https://user-images.githubusercontent.com/105616033/204461256-0bcd85f2-cef7-47d6-bd56-4af5cd5a2960.png)
 
 <h3>IQ Test for kids from 7 to 16 year old. Start test. Most IQ tests are not suitable for children, as they are originally developed for the adult population.</h3>
 <br/>
+
 # Questions Layout:
 
 ![ques_2](https://user-images.githubusercontent.com/105616033/204461398-6524ccee-9722-4095-a7d2-d83e7c5ea9e8.png)
@@ -28,6 +30,7 @@
 ![quiz-app](https://user-images.githubusercontent.com/105616033/204461629-4b0955f4-89bb-4027-9558-758d3ec12eb4.png)
 
 <br/>
+
 # Result Page:
 
 ![result_page](https://user-images.githubusercontent.com/105616033/204461733-3205192a-3d60-488c-86eb-f9fb45c9a7d1.png)
