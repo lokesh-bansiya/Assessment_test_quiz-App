@@ -15,16 +15,20 @@
 # Descriptive Layout:-
 
 # Home Page:
-![screenshot__12863_](https://user-images.githubusercontent.com/105616033/201506121-de6aa533-48b9-4728-b039-79b81d594564.png)
+![Home_Page](https://user-images.githubusercontent.com/105616033/204461256-0bcd85f2-cef7-47d6-bd56-4af5cd5a2960.png)
+
 <h3>IQ Test for kids from 7 to 16 year old. Start test. Most IQ tests are not suitable for children, as they are originally developed for the adult population.</h3>
 <br/>
+# Questions Layout:
+![ques_2](https://user-images.githubusercontent.com/105616033/204461398-6524ccee-9722-4095-a7d2-d83e7c5ea9e8.png)
+![ques_3](https://user-images.githubusercontent.com/105616033/204461442-f80f1ce9-7374-4139-8021-24b7dcd097f1.png)
+![ques_4](https://user-images.githubusercontent.com/105616033/204461477-e4c8f03e-3515-47cf-af84-97c8313f581e.png)
+![ques_5](https://user-images.githubusercontent.com/105616033/204461531-a114ff7e-dc3d-4f1e-9b73-7e2468af0882.png)
+![quiz-app](https://user-images.githubusercontent.com/105616033/204461629-4b0955f4-89bb-4027-9558-758d3ec12eb4.png)
+<br/>
+# Result Page:
+![result_page](https://user-images.githubusercontent.com/105616033/204461733-3205192a-3d60-488c-86eb-f9fb45c9a7d1.png)
 
-# Assessment Page/ Quiz Page:
-<h3>Questions Pattern:</h3>
-<div display="flex">
-<img width="50%" src="https://user-images.githubusercontent.com/105616033/201506150-2577c155-24c4-4e55-b088-5fc17eec5b19.png" />
-<img width="50%" src="https://user-images.githubusercontent.com/105616033/201506158-ca5bd292-d928-4fc8-8f79-f939d621f5cd.png" />
-</div>
 <br/>
 <h4 align="center">💻 Tech Stack</h4>
  <div align="center">
