@@ -3,14 +3,13 @@
 
 ## About Project:-
  - Individual Project
-## Tech-stacks:-
- - HTML
- - CSS
- - JavaScript
-## Tools:-
- - VS-Code
- - GitHub
- - Netlify
+ 
+## Functionality
+<li> Fully responsive </li>
+<li> Users can test their IQ </li>
+<li> Automaticaly marks will shown at last according to the response </li>
+
+
  
 # Descriptive Layout:-
 
@@ -35,6 +34,16 @@
 
 ![result_page](https://user-images.githubusercontent.com/105616033/204461733-3205192a-3d60-488c-86eb-f9fb45c9a7d1.png)
 
+## Tech-stacks:-
+ - HTML
+ - CSS
+ - JavaScript
+## Tools:-
+ - VS-Code
+ - GitHub
+ - Netlify
+ 
+ 
 <br/>
 <h4 align="center">💻 Tech Stack</h4>
  <div align="center">
