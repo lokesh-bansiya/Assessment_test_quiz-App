@@ -162,6 +162,472 @@ const Assessment_Quiz = () => {
                 }
             ]
         },
+        {
+            image: "https://en.testometrika.com/upload/questions/a81/a81ad1de8cfdbb5d180ea3fd50a3bacc.svg",
+            Question: "6. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/99f/99f5c77985a1b200e9141fdd2ccf7b2d.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/071/0713aa121f002ad9bc4ae153eeb8e39d.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/67d/67d393aef6640deb3010b31f3b9cc95f.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/be5/be506b556903eb28735313c3f34c3e34.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/fea/feae0c9007450070ab504d2a9d250d5d.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/60d/60d396000687765f149079a2effb9e82.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/a84/a840c4e1d62823491d4fa2e03730cfe1.svg",
+            Question: "7. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ad4/ad4b821d3e138226e71ba2cb4f264eef.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/fcd/fcdcdb73eda8bb8fa0e0a41ce823aa0f.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ff2/ff2627f18be55c1b49bae14010c04251.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/782/7825e330fe924d2a57f0707552dc5253.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/4b0/4b0e932a6a92559edb7de27143b0f630.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/4a5/4a5c07bab54b36da281e942add14f6e3.svg",
+                    isCorrect: true
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/bbd/bbd1d095f7ccb36fac0b18f008e12fef.svg",
+            Question: "8. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/bfd/bfd1032e129daab8598df869d332281f.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/527/527ccce8b7e464c98b2df4ca065b0177.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/f53/f53d3e2efaba8c2b6e2705b54254b095.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/608/608426266d709df9b3c0f9784ffcc732.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/d6e/d6e09c87870c9483959bfa1f1437f694.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/796/7969e468329ca7df83f0803b2e9e8740.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/725/725adccf3743f2da6b84156b124243ae.svg",
+            Question: "9. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/55d/55d3306a5327024bc721af79dc6efbdd.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/638/63883383709944aac33882ecb915a77c.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/e0b/e0b3cec878775b6324b2fb092eea6606.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/f17/f17b9371fd32fde194a70151a84029ee.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/7af/7af7f2d16ce8383ef937d2aa6ce314e4.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8ae/8ae58f04fde563e63d4941fe09057cdb.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/fd4/fd49e822343e0de11e8033b4cd4b2761.svg",
+            Question: "10. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/d0d/d0d2d84e5468bafbc022fceea55dd441.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/bcc/bcc8bbeda8d66a533703992f4b13ca56.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/85d/85d8c64821fea788e8e3c65a82961d92.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/367/3673e3a621d61066ab04c34d35237b1b.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/01b/01b8ceb8c0ad99bed2e9a120ab178518.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/668/668d883b33a3b34572968a04fc2a6aba.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/921/921fe44a3a221c5602c8923b879e83f4.svg",
+            Question: "11. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/65d/65d83ac948cf668754ce10fb8eab9919.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/4fe/4fe311e1979689a9cb0c0c4a1e7839fb.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8f6/8f63678dad5c81f8f74f27fe757c1752.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/295/2954e6e5a7c7b32a00e5137c9519b786.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/85a/85a4b83eca509959b9b3c17a6294f697.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/1ef/1ef00826343e3589e412a6d269d02123.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/362/3624ffc71d3402201aed1f6b3ff60624.svg",
+            Question: "12. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/4d9/4d95374559f271f91dafce2e90d303f3.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/849/849da0da16f7edbb05d4f13038b31e11.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/7db/7db6200dd0e51536e542826817e5dad1.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/fc8/fc886cfac321b33bb43a5587424d8780.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/889/88903c1cd8503754699f10b647a4a9e4.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/2e2/2e2c25042d7f7734ecdb2ff1c5261e75.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/62d/62de34b787092faa0f83765d12254b96.svg",
+            Question: "13. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/c68/c688416326dc4889956c5c1945e3b768.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/4b6/4b6ed037e95ec98652015befba18b8b3.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/c08/c084d8bc201de590152b47ccb2770240.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/9ec/9ec23cabd773273597549160eaa4d41b.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/e70/e70ee3de0db82dbf6943d6d8f9ea5997.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/1a0/1a03223523857ee12bcf3e2fa30df63d.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/dc7/dc7f51516653072a25b92b272bad373e.svg",
+            Question: "14. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/d3d/d3d8b953badad5fc0a2fcc1429807ca2.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/798/798722b430d02c36f7c8591c91e434dd.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/077/077aa5fdfc950ec9a0a451df524443e1.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/7c4/7c404d83957fa3b9fb3e9b6f5d9a5231.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/090/090be44eb688aae0c7b032d8e104c006.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/dff/dff2b3ea9e970c196a54aed117ae6dc9.svg",
+                    isCorrect: true
+                }
+            ]
+        },
+
+        {
+            image: "https://en.testometrika.com/upload/questions/194/19451a41a34b946042ddddfd9fcfd5ef.svg",
+            Question: "15. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/652/652b06b5324c990916b720a64cdd0048.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/d7d/d7d5b4137fb102cbd7847a04c2a1b123.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/392/392ee5e0f399ec29ae4fd802c4479d9d.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/f41/f41af5b24f38482f3f44fb841fcaa265.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/82a/82abaf4c40091c400bf9d0be4001f73a.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/d14/d147415095fccdb518d933eaf34c7bac.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/597/597606b103a4806f44ec76f81d69e8b7.svg",
+            Question: "16. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8d4/8d45f28883d3288203a9d983f54a1634.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ac9/ac97663d0e92e1f6099814c569206c91.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8a8/8a84cd5171aaf7117a66a4222d3b173a.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/424/4246c19bceb40a9ab713555c73cc63d5.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/333/333471648c0963bd7e0bd18195a3f5cd.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/43d/43de34cc6002599449f6df80bfaf09f1.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/890/890ee2b9c70cfcefb86aa1f646256db1.svg",
+            Question: "17. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/867/867556bce0b91837cdd25e104baa8a00.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/5bb/5bb2f3bb62e164722a7be9dd2a8b7526.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8bd/8bd7d0335931dcbe21336aa1eea347e6.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ed8/ed8dc2942e06c1e1038add6acc9d86b9.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/e7e/e7edb8dc9061ef0a3f4c9a475dbe3996.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/80f/80f77c08d2f352fbfa89d5d08b3b9117.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/c13/c1304ae8034b67834351dfd9104fd4eb.svg",
+            Question: "18. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/07c/07c4457bdef02300fb555333808c2da5.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/fb9/fb93a957a46ac1cad870aadcd23289db.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/433/43381ee3f4d7f4595d91410593753be7.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/b74/b744248f0392591ac47215ad10097162.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ac1/ac16963205b54428e96f674cb05cf0e4.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ca9/ca9ee7082b74639eb5be761a63121804.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/b70/b704f258ba091de595448fe3aa580a2e.svg",
+            Question: "19. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8e2/8e23403b3b70576ce23530ec497a9aa5.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/aa3/aa3b1eab57dbe6854b7d7a5344f6f16a.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/0d0/0d059a4c26317677d3ef3a7be283a41b.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/23a/23a84f1d1b93416494f19a1901f2e1f5.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/964/9640467c7a949516696731030f4d0407.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/2dc/2dc134433d2d393735e744cb7d44d27c.svg",
+                    isCorrect: false
+                }
+            ]
+        },
+        {
+            image: "https://en.testometrika.com/upload/questions/193/193b75bb23cf5a79dfd352b5a8316b78.svg",
+            Question: "20. Which shape should be in the rightmost cell with a question mark?",
+            button: "Back",
+            Answer_Text: [
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/81b/81b4d1b3e34d3e758e15e3df7ed27acc.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/399/399cf95db9d8586dd3ada9332ef8cc79.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/a67/a67d3fd8ec9291021e25582542ac48d9.svg",
+                    isCorrect: true
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/ac2/ac2810525d4da8334176d64951ff6f6b.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/f8b/f8bf576f835b0155bc9295cce0f0ba71.svg",
+                    isCorrect: false
+                },
+                {
+                    Answer: "https://en.testometrika.com/upload/answers/8cf/8cf2f972640182624081ef81c5f489fc.svg",
+                    isCorrect: false
+                }
+            ]
+        }
     ];
 
     const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -170,16 +636,15 @@ const Assessment_Quiz = () => {
 
 
     const handleAnswersResponse = (isCorrect) => {
-        if (isCorrect) {
+        if (isCorrect){
             setScore(score + 1);
         }
 
         const nextQuestion = currentQuestion + 1;
 
-        if (nextQuestion < Question_Bank.length) {
+        if(nextQuestion < Question_Bank.length){
             setCurrentQuestion(nextQuestion);
-        }
-        else {
+        }else{
             setShowScore(true);
         }
     };
@@ -190,8 +655,8 @@ const Assessment_Quiz = () => {
             setCurrentQuestion(currentQuestion - 1);
             setScore(score - 1);
             setShowScore(false);
-        }
-    }
+        };
+    };
     
     // console.log(Question_Bank);
 
