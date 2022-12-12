@@ -3,6 +3,7 @@
   display: flex;
   justify-content: center;
   height: 100vh;
+  background-color: rgb(77, 77, 147);
 }
 
 .Home_Container{

@@ -685,10 +685,7 @@ const Assessment_Quiz = () => {
                                 <p><span>Your IQ is 70. </span> This corresponds to a below average level IQ. In this test you have <span>{score} correct answers from {Question_Bank.length}</span>. This is not a very good result for your age 16.</p>
                                 <p>Please note that the first four questions of the test were only the practice questions and they do not count towards the final result.</p>
                             </div>
-                            <div>
-                                <h3>Permanent result link:</h3>
-                                <p>https://en.testometrika.com/a/eEsKa0Np%252Fw6033Y4KAGYgQ/ <button>Copy</button></p>
-                            </div>
+                           
                             <div className="image-grid-container">
                                 <h3>Share result:</h3>
                                 <div className="image-gerid-section">
@@ -747,13 +744,12 @@ const Assessment_Quiz = () => {
                         {Question_Bank[currentQuestion].Answer_Text.map((ans) => (
                             <div className="Answers_Item">
                                 <img src={ans.Answer} onClick={() => handleAnswersResponse(ans.isCorrect)} alt="" />
-
                             </div>
 
                         ))}
                         <button onClick={handleBack}>
                             {/* {Question_Bank[currentQuestion].button} */}
-                            🠔
+                            Back
                         </button>
 
                     </div>
